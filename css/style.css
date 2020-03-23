@@ -1,18 +1,18 @@
 .btn-learn-more {
-    background-color: #3a9bff; /* light blue */
+    background-color: #7dbeff; /* light blue */
     color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 0px 25px 25px 25px;
+    margin: 0px 25px 25px 0px;
   }
 
 .btn-learn-more:hover {
     background-color: #e9ecef; /* light blue */
-    border-color: #3a9bff;
-    color: #3a9bff;
+    border-color: #7dbeff;
+    color: #7dbeff;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
